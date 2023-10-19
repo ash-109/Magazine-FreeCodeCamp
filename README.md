@@ -1,7 +1,8 @@
+This site is live at https://ash-109.github.io/Magazine-FreeCodeCamp/
+
+
 
 Learn CSS Grid by Building a Magazine - FreeCodeCamp
-
-
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/
 
 
